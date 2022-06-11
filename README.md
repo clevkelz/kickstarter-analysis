@@ -5,4 +5,5 @@ The fundraising for the upcoming play _Fever_ has finished and the goal was near
 The analysis consisted of two portions:
 1. A comparison of the timing of new Kickstarter campaigns by month to the outcomes of the campaign, specifically if the campaign succeeded, failed, or was canceled.
 2. A comparison of the size of the fundraising goal to the outcomes of the campaign.
-### Timing of Campaign by the Month Launched to the Outcome
+### Timing of Campaign by the Month Launched to the Eventual Outcome of the Campaign
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106293233/173169399-51edc18a-26ad-483d-a658-84b8f758de84.png)
