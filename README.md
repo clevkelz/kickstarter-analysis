@@ -17,7 +17,7 @@ The size of the Kickstarter goal for plays was divided into 11 categories as sho
 
 ### Challenges
 Although the data set encompassed a relatively large amount of plays and theater campaigns (over 1,000 and nearly 1,400 respectively) during this time frame), past outcomes may not be consistent with future results.  Further, campaigns created in Great Britian only represented 30% of the data set; therefore, evaluating plays from all over the world may not be reprensentative of fundraising success in this country.  
-##Results
+## Results
 Three general conclusions were reached from reviewing the data:
 1. The launching of theater campaigns tends to be cyclical, with the largest amount of campaigns begun from May to August of each year.  New launches fall sharply at the end of the year.
 2. The highest failure rates for new theater campaigns are for those launched at the end of the year.  The failure rate for Kickstarter campaigns in October is 43% and 47% in December.
